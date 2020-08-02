@@ -13,12 +13,14 @@ public class PruebaCambios {
 		String tres = "3";
 		String cuatro = "4";
 		String cinco = "5";
+		String seis = "6";
 		
 		System.out.println(uno);
 		System.out.println(dos);
 		System.out.println(tres);
 		System.out.println(cuatro);
 		System.out.println(cinco);
+		System.out.println(seis);
 		
 
 	}
