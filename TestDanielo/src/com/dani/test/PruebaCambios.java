@@ -11,10 +11,12 @@ public class PruebaCambios {
 		String uno = "1";
 		String dos = "2";
 		String tres = "3";
+		String cuatro = "4";
 		
 		System.out.println(uno);
 		System.out.println(dos);
 		System.out.println(tres);
+		System.out.println(cuatro);
 		
 
 	}
