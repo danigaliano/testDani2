@@ -12,11 +12,12 @@ public class PruebaCambios {
 		String dos = "2";
 		String tres = "3";
 		String cuatro = "4";
+		String seis = "6";
 		
 		System.out.println(uno);
 		System.out.println(dos);
 		System.out.println(tres);
-		System.out.println(cuatro);
+		System.out.println(seis);
 		
 
 	}
