@@ -14,6 +14,7 @@ public class PruebaCambios {
 		String cuatro = "4";
 		String cinco = "5";
 		String seis = "6";
+		String siete = "7";
 		
 		System.out.println(uno);
 		
@@ -21,7 +22,7 @@ public class PruebaCambios {
 		System.out.println(cuatro);
 		System.out.println(cinco);
 		System.out.println(seis);
-		
+		System.out.println(siete);
 
 	}
 
