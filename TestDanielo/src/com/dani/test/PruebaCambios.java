@@ -15,6 +15,7 @@ public class PruebaCambios {
 		String seis = "6";
 		String siete = "7";
 		String ocho = "8";
+		String none = "9";
 		
 		System.out.println(uno);
 		System.out.println(tres);
@@ -23,6 +24,7 @@ public class PruebaCambios {
 		System.out.println(seis);
 		System.out.println(siete);
 		System.out.println(ocho);
+		System.out.println(none);
 
 	}
 
